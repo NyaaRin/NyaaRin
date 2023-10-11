@@ -10,7 +10,7 @@
 <a href="https://discord.gg/zj8YDbBGrV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NyaaIzumi" height="30" width="40" /></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?organization=AvalancheTeam&repo=Avalanche&show_owner=true&theme=tokyonight)](https://github.com/AvalancheTeam/Avalanche)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NyaaRin&repo=Orbit&show_owner=true&theme=tokyonight)](https://github.com/AvalancheTeam/Avalanche)
 
 ![Rins github stats!](https://github-readme-stats.vercel.app/api?username=NyaaRin&show_icons=true&theme=tokyonight) 
 
