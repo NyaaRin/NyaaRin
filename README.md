@@ -7,7 +7,7 @@
 <p align="left">
 
 <a href="https://youtube.com/channel/UCkrfA46q9XC50frb8XKg67A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCSUbY-L1scKvtIPOLq5E_Ng" height="30" width="40" /></a>
-<a href="https://discord.gg/zj8YDbBGrV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NyaaIzumi" height="30" width="40" /></a>
+<a href="https://discord.gg/KKNYXpysXA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NyaaIzumi" height="30" width="40" /></a>
 </p>
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NyaaRin&repo=Orbit&show_owner=true&theme=tokyonight)](https://github.com/NyaaRin/Orbit)
