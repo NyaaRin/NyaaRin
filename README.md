@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">Part of Team Avalanche</h3>
 
-<!--
-**NyaaRin/NyaaRin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on **Avalanche Utility Client**
+- 📫 My Discord **@NyaaIzumi**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://youtube.com/channel/UCkrfA46q9XC50frb8XKg67A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCSUbY-L1scKvtIPOLq5E_Ng" height="30" width="40" /></a>
+<a href="https://discord.gg/zj8YDbBGrV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NyaaIzumi" height="30" width="40" /></a>
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Epik123&repo=TeamGravity&show_owner=true&theme=tokyonight)](https://github.com/Epik123/TeamGravity)
+
+![Rins github stats!](https://github-readme-stats.vercel.app/api?username=NyaaRinshow_icons=true&theme=tokyonight) 
+
+<a href="https://discord.com/users/935327013470883890" target="_blank"><img alt="NyaaIzumi" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+
+
+
