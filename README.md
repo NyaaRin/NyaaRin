@@ -12,7 +12,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Epik123&repo=TeamGravity&show_owner=true&theme=tokyonight)](https://github.com/Epik123/TeamGravity)
 
-![Rins github stats!](https://github-readme-stats.vercel.app/api?username=NyaaRinshow_icons=true&theme=tokyonight) 
+![Rins github stats!](https://github-readme-stats.vercel.app/api?username=NyaaRin&show_icons=true&theme=tokyonight) 
 
 <a href="https://discord.com/users/935327013470883890" target="_blank"><img alt="NyaaIzumi" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
