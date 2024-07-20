@@ -1,13 +1,14 @@
-<h3 align="center">Part of Team Avalanche</h3>
+<h3 align="center">Part of KetaSolutions</h3>
 
-- I’m currently working on **Avalanche Utility Client**
-- 📫 My Discord **@NyaaIzumi**
+- I’m currently working For **Ectasy**
+- 📫 My Bio **[Here](https://e-z.bio/IzumiTop)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://youtube.com/channel/UCkrfA46q9XC50frb8XKg67A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCSUbY-L1scKvtIPOLq5E_Ng" height="30" width="40" /></a>
-<a href="https://discord.gg/KKNYXpysXA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NyaaIzumi" height="30" width="40" /></a>
+<a href="https://t.me/KetaDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="KetaDev" height="30" width="40" /></a>
 </p>
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NyaaRin&repo=Orbit&show_owner=true&theme=tokyonight)](https://github.com/NyaaRin/Orbit)
