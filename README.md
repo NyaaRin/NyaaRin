@@ -40,5 +40,8 @@
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://e-z.bio/IzumiTop"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://x.com/badman_client"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/KetaDev"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a>
 </p>
+
+![Stats!](https://github-readme-stats.vercel.app/api?username=NyaaRin&show_icons=true&theme=tokyonight) 
+
 <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
